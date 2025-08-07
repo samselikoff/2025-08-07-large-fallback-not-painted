@@ -41,6 +41,16 @@ export default function RootLayout({
           </p>
 
           <p className="mt-2">It happens in both dev and prod.</p>
+
+          <p className="mt-2">
+            <a
+              className="underline"
+              target="_blank"
+              href="https://github.com/samselikoff/2025-08-07-large-fallback-not-painted"
+            >
+              Repo on GitHub.
+            </a>
+          </p>
         </div>
 
         <div className="p-4 bg-white w-full">
